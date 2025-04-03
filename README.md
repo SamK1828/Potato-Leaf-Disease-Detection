@@ -8,7 +8,9 @@ The model is trained using **Convolutional Neural Networks (CNNs)** on a dataset
 ## 🎥 Demo Video  
 https://user-images.githubusercontent.com/SamK1828/DEMONSTRATION.mp4
 
-🎬 Watch the live demo below or **[Click Here](demo_video/DEMONSTRATION.mp4)** to download and view the video.  
+## 📽️ Demo Video
+[https://drive.google.com/file/d/YourVideoID/preview](https://drive.google.com/file/d/1UYETRb35jTfDfnUd2QeajdV_hy9Pv_BZ/view)"
+ 
 
 <video width="700" controls>
   <source src="screenshots/demo.mp4" type="video/mp4">
