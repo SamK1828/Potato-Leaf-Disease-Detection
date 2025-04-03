@@ -5,9 +5,6 @@ This project is a **Potato Leaf Disease Detection** system that utilizes **Deep 
 
 The model is trained using **Convolutional Neural Networks (CNNs)** on a dataset containing images of healthy and diseased potato leaves.
 
-## 🎥 Demo Video  
-https://user-images.githubusercontent.com/SamK1828/DEMONSTRATION.mp4
-
 ## 📽️ Demo Video
 [https://drive.google.com/file/d/YourVideoID/preview](https://drive.google.com/file/d/1UYETRb35jTfDfnUd2QeajdV_hy9Pv_BZ/view)"
  
