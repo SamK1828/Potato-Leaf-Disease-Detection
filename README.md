@@ -143,8 +143,8 @@ Dataset Source: [Kaggle PlantVillage Dataset](https://www.kaggle.com/datasets)
 ---
 
 ## 🙌 Contributors
-- **[Your Name]** - Developer
-- **[Your Teammates]** - Support & Testing
+- **[ranjay24]** - Front End Developer
+- **[SDKSamK1828]** - Back End Developer
 
 ---
 
