@@ -161,4 +161,3 @@ This project is licensed under the **MIT License**. You are free to use, modify,
 ---
 
 🚀 **Enjoy coding!** If you found this useful, give it a ⭐ on GitHub!
-```
